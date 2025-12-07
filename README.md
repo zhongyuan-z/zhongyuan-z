@@ -8,19 +8,16 @@
 - ✍️ Sharing projects & research on GitHub
 - 👨‍💻 Sharing LeetCode questions and ML projects on YouTube
 
----
 
 ## 🚀 Projects
 
 - 📌 **Coming soon
 
----
 
 ## 🛠️ Coding Languages
 
 - **Languages:** Python, R, SQL  
 
----
 
 ## 📫 Contact
 
@@ -28,6 +25,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/joezhao6/
 - 🐙 GitHub: https://github.com/zhongyuan-z
 
----
 
 ⭐ Feel free to check out my repositories below!
