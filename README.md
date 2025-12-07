@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Joe 👋
 
-<!--
-**zhongyuan-z/zhongyuan-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD in Math & Statistics | 💻 Machine Learning | 📊 Data Science
 
-Here are some ideas to get you started:
+- 🔬 Research area: Machine Learning, Change-Point Detection
+- 🧠 Working on Machine Learning, Deep Learning
+- 📈 Interested in Machine Learning Engineer, Data Scientist, Research Scientist, etc., roles  
+- ✍️ Sharing projects & research on GitHub
+- 👨‍💻 Sharing LeetCode questions and ML projects on YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- 📌 **Coming soon
+
+---
+
+## 🛠️ Coding Languages
+
+- **Languages:** Python, R, SQL  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: joezhao.ml@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/joezhao6/
+- 🐙 GitHub: https://github.com/zhongyuan-z
+
+---
+
+⭐ Feel free to check out my repositories below!
