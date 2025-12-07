@@ -6,7 +6,7 @@
 - 🧠 Working on Machine Learning, Deep Learning
 - 📈 Interested in Machine Learning Engineer, Data Scientist, Research Scientist, etc., roles  
 - ✍️ Sharing projects & research on GitHub
-- 👨‍💻 Sharing LeetCode questions and ML projects on YouTube
+- 👨‍💻 Sharing ML projects and LeetCode questions on YouTube(shot out to Neetcode:https://neetcode.io/)
 
 
 ## 🚀 Projects
