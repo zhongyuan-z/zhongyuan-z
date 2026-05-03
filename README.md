@@ -1,12 +1,11 @@
-# Hi, I'm Joe 👋
+# Hi, I'm Joe 👋, I am currently a Ph.D. candidate at Binghamton University and a Coming intern for Wells Fargo
 
 🎓 PhD in Math & Statistics | 💻 Machine Learning | 📊 Data Science
 
-- 🔬 Research area: Machine Learning, Change-Point Detection
+- 🔬 Research area: AI, Machine Learning, Change-Point Detection
 - 🧠 Working on Machine Learning, Deep Learning
-- 📈 Interested in Machine Learning Engineer, Data Scientist, Research Scientist, etc., roles  
+- 📈 Interested in Quant, Machine Learning Engineer, Data Scientist, Research Scientist, etc., roles  
 - ✍️ Sharing projects & research on GitHub
-- 👨‍💻 Sharing ML projects and LeetCode questions on YouTube(shot out to Neetcode:https://neetcode.io/)
 
 
 ## 🚀 Projects
